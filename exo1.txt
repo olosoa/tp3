@@ -1,0 +1,8 @@
+service web :
+un protocole d'interface informatique de la famille des technologies web permettant la communication et l'échange de données entre applications et systèmes hétérogènes dans des environnements distribués.
+
+API REST :
+interface de programmation d'application (API ou API web) qui respecte les contraintes du style d'architecture REST et permet d'interagir avec les services web RESTful. L'architecture REST (Representational State Transfer) a été créée par l'informaticien Roy Fielding.
+
+FAST API:
+framework moderne qui vous permet de créer des API de manière transparente sans trop d'efforts. Il a la capacité de séparer le code du serveur de la logique-métier, ce qui augmente la maintenabilité du code.
